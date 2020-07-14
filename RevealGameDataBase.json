@@ -94,5 +94,77 @@
     {
       "name": "atje",
       "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/atjevoordesfeer.png?raw=true"
+    },    
+    {
+      "name": "baard",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/baard.png?raw=true"
+    },    
+    {
+      "name": "debosbar",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/debosbar.png?raw=true"
+    },    
+    {
+      "name": "gozer",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/gozer.png?raw=true"
+    },    
+    {
+      "name": "kapsalon",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/kapsalon.png?raw=true"
+    },    
+    {
+      "name": "marbles",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/marbles.png?raw=true"
+    },    
+    {
+      "name": "minecraft",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/minecraft.png?raw=true"
+    },    
+    {
+      "name": "motor",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/motor.png?raw=true"
+    },    
+    {
+      "name": "niels",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/niels.png?raw=true"
+    },    
+    {
+      "name": "pappacheatmaster",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/pappacheatmaster.png?raw=true"
+    },    
+    {
+      "name": "pickaxe",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/pickaxe.png?raw=true"
+    },    
+    {
+      "name": "proxios",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/proxios.png?raw=true"
+    },    
+    {
+      "name": "redstone",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/redstone.png?raw=true"
+    },    
+    {
+      "name": "shotje",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/shotje.png?raw=true"
+    },    
+    {
+      "name": "skateboard",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/skateboard.png?raw=true"
+    },    
+    {
+      "name": "skoapie",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/skoapie.png?raw=true"
+    },    
+    {
+      "name": "spiderprox",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/spiderprox.png?raw=true"
+    },    
+    {
+      "name": "chopper",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/vtwin.png?raw=true"
+    },    
+    {
+      "name": "x0g",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/x0g.png?raw=true"
     }
   ]
