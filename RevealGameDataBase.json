@@ -117,7 +117,7 @@
     },    
     {
       "name": "minecraft",
-      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/minecraft.png?raw=true"
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/Minecraft.png?raw=true"
     },    
     {
       "name": "motor",
@@ -166,5 +166,17 @@
     {
       "name": "x0g",
       "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/x0g.png?raw=true"
+    },    
+    {
+      "name": "hawkframe",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/hawkframe.png?raw=true"
+    },    
+    {
+      "name": "schmingel",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/schmingel.png?raw=true"
+    },    
+    {
+      "name": "bilters",
+      "image": "https://github.com/Proxiart/GuessingOverlay/blob/images/bilters.png?raw=true"
     }
   ]
